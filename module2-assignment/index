@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment for Module 2</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  
+</head>
+<body>
+
+<div class="box-office">
+	<h1>This Week Box Office</h1>
+
+  <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="movie1">
+                <h2>Avengers Infintity War</h2>
+                <p>
+                    Iron Man, Thor, the Hulk &amp the rest Avengers unite to battle their most powerful enemy yet, the evil Thanos. On a mission to collect all six Infinity Stones, he plans to use the artifacts to inflict his twisted will on reality. The fate of the planet &amp existence itself has never been more uncertain as everything the Avengers.
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="movie2">
+                <h2>Jurassic World:</h2>
+                <p>
+                    Three years after the destruction of the Jurassic World theme park, Owen Grady and Claire Dearing return to the island of Isla Nublar to save the remaining dinosaurs from a volcano that's about to erupt. They soon encounter terrifying new breeds of gigantic dinosaurs, while uncovering a conspiracy that threatens the entire planet.
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <section class="movie3">
+                <h2>Incredibles 2</h2>
+                <p>
+                   Everyone’s favorite family of superheroes is back in “Incredibles 2” – but this time Helen is in the spotlight, leaving Bob at home with Violet and Dash to navigate the day-to-day heroics of “normal” life. It’s a tough transistion for everyone, made tougher by the fact that the family is still unaware of baby Jack-Jack’s emerging superpowers.
+                </p>
+            </section>
+        </div>
+    </div>
+</div>
+</body>
+</html>
